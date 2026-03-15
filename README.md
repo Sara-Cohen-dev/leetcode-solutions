@@ -28,4 +28,16 @@ A collection of my LeetCode solutions, Created using [LeetHub v2](https://github
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/1622-fancy-sequence) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/1622-fancy-sequence) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
