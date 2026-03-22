@@ -48,6 +48,7 @@ A collection of my LeetCode solutions, Created using [LeetHub v2](https://github
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
@@ -57,4 +58,12 @@ A collection of my LeetCode solutions, Created using [LeetHub v2](https://github
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
