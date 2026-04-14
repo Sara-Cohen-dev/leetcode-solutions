@@ -7,6 +7,7 @@ A collection of my LeetCode solutions, Created using [LeetHub v2](https://github
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0018-4sum](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 ## Binary Search
 |  |
@@ -45,6 +46,7 @@ A collection of my LeetCode solutions, Created using [LeetHub v2](https://github
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
@@ -72,4 +74,8 @@ A collection of my LeetCode solutions, Created using [LeetHub v2](https://github
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/0013-roman-to-integer) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
