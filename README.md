@@ -32,6 +32,7 @@ A collection of my LeetCode solutions, Created using [LeetHub v2](https://github
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [1622-fancy-sequence](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/1622-fancy-sequence) |
 ## Design
 |  |
@@ -62,8 +63,13 @@ A collection of my LeetCode solutions, Created using [LeetHub v2](https://github
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/0010-regular-expression-matching) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
