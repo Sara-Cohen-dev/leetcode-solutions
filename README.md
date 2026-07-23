@@ -9,11 +9,13 @@ A collection of my LeetCode solutions, Created using [LeetHub v2](https://github
 | [0004-median-of-two-sorted-arrays](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [3488-closest-equal-element-queries](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [3488-closest-equal-element-queries](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 ## Divide and Conquer
 |  |
@@ -81,4 +83,8 @@ A collection of my LeetCode solutions, Created using [LeetHub v2](https://github
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/0018-4sum) |
+## Greedy
+|  |
+| ------- |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 <!---LeetCode Topics End-->
