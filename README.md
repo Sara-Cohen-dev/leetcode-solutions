@@ -7,6 +7,7 @@ A collection of my LeetCode solutions, Created using [LeetHub v2](https://github
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -50,6 +51,7 @@ A collection of my LeetCode solutions, Created using [LeetHub v2](https://github
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
@@ -82,6 +84,7 @@ A collection of my LeetCode solutions, Created using [LeetHub v2](https://github
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sara-Cohen-dev/leetcode-solutions/tree/master/0018-4sum) |
 ## Greedy
 |  |
